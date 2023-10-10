@@ -1,0 +1,10 @@
+h1,
+h2 {
+  text-align: center;
+}
+img {
+  width: 500px;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
